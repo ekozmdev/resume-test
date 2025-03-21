@@ -1,5 +1,5 @@
 title: "職務経歴書"
 description: "A test site for my resume"
-remote_theme: pages-themes/minima@v2.5.2
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
